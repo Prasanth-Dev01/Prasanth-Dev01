@@ -3,10 +3,32 @@
 💻 Frontend Developer | Next.js | React | TypeScript  
 📍 India
 
-### 👨‍💻 About Me
-- Passionate about building modern web applications
-- Learning full-stack development
-- Interested in performance optimization & SEO
+## 👋 About Me
+
+I’m a **Frontend Developer** focused on building **scalable, high-performance, and user-centric web applications** using modern JavaScript frameworks and UI systems.
+
+I specialize in **React and Next.js** with **TypeScript**, and I enjoy designing clean component architectures, reusable UI patterns, and efficient state management solutions. I pay strong attention to **code quality, performance, and developer experience**.
+
+I have hands-on experience with modern styling and component systems such as **Tailwind CSS, shadcn/ui, Radix UI, and MUI**, and I work comfortably with state management libraries like **Redux Toolkit, Zustand, and Jotai**. For APIs and validation, I use **tRPC and Zod** to ensure type safety and reliability across applications.
+
+I’m continuously learning and improving, with a strong interest in **performance optimization, scalable frontend architecture, and clean UI/UX design**.
+
+---
+
+### 🧠 Core Focus Areas
+- Modern Frontend Development (React, Next.js)
+- Type-safe Applications with TypeScript
+- Reusable UI Components & Design Systems
+- State Management & App Architecture
+- Performance, Accessibility & Best Practices
+
+---
+
+### 🎯 What I Value
+- Clean, readable, and maintainable code  
+- Consistent UI and developer-friendly systems  
+- Continuous learning and improvement  
+
 
 ## 🛠️ Tech Stack
 ---
