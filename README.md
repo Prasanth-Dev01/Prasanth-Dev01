@@ -15,5 +15,5 @@
 - Git & GitHub
 
 ### 🔗 Connect with Me
-- 💼 LinkedIn: View(https://www.linkedin.com/in/prasanth-s-349944370/)
+- 💼 LinkedIn:https://www.linkedin.com/in/prasanth-s-349944370/
 - 📧 Email: prasanth79043@gmail.com
