@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Prasanth
 
-💻 Frontend Developer | Next.js | React | TypeScript  
+💻 Software Developer | Next.js | React | TypeScript  
 📍 India
 
 ## 👋 About Me
